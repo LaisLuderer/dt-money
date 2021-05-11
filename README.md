@@ -6,7 +6,7 @@
 	<p>:moneybag:Manage your money.</p>
 	<p>Projeto desenvolvido durante o Bootcamp Ignite chapter II da trilha de React.</p>
 	<p>
-		Made with ♥ by <a href="https://github.com/LaisLuderer">Laís Luderer</a>
+		Made with ♥ by <a href="www.linkedin.com/in/laís-luderer-alvarenga">Laís Luderer</a>
 	</p>
 </div>
 
