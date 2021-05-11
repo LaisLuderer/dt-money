@@ -23,7 +23,7 @@ Esse projeto foi feito com as seguintes tecnologias:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/LaisLuderer/00.git
+$ git clone https://github.com/LaisLuderer/dt-money.git
 
 # Install dependencies
 $ yarn install
@@ -31,9 +31,3 @@ $ yarn install
 # Run Aplication
 $ yarn start
 ```
-
-## :memo: License
-This project is under the [MIT LICENSE](https://github.com/lukemorales/rocketshoes-react-native/blob/master/LICENSE).<br>
-Made with ♥ by Lais Luderer
-
----
