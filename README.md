@@ -10,6 +10,9 @@
 	</p>
 </div>
 
+## Sobre o Projeto
+O dtMoney tem por objetivo auxiliar no gerenciamento da suas finanças, permitindo o cadastro de valores de entrada e saída além de sua organização por categoria.
+
 ## :rocket: Technologies
 
 Esse projeto foi feito com as seguintes tecnologias:
